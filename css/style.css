@@ -486,6 +486,10 @@ body {
   -ms-hyphens: manual;
   -webkit-hyphens: manual;
 }
+.content img {
+  margin: auto;
+  max-width: 100%;
+}
 .content a {
   color: #22272a;
   text-decoration: none;
